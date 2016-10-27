@@ -1,6 +1,6 @@
 {
   "name": "parseuri",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Method that parses a URI and returns an array of its components",
   "repository": {
     "type": "git",
@@ -11,7 +11,8 @@
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "1.17.1"
+    "mocha": "1.17.1",
+    "better-assert": "1.0.0"
   },
   "author": "",
   "license": "MIT",
