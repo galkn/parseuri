@@ -12,9 +12,9 @@
   },
   "devDependencies": {
     "mocha": "1.17.1",
-    "better-assert": "1.0.0"
+    "better-assert": "~1.0.0"
   },
-  "author": "",
+  "author": "Gal Koren",
   "license": "MIT",
   "dependencies": {
     "better-assert": "~1.0.0"
