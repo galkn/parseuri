@@ -11,12 +11,13 @@
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "1.17.1",
-    "better-assert": "~1.0.0"
+    "better-assert": "~1.0.0",
+    "mocha": "1.17.1"
   },
   "author": "Gal Koren",
   "license": "MIT",
   "dependencies": {
-    "better-assert": "~1.0.0"
+    "better-assert": "~1.0.0",
+    "expect.js": "^0.3.1"
   }
 }
