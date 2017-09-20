@@ -15,8 +15,5 @@
     "better-assert": "~1.0.0"
   },
   "author": "Gal Koren",
-  "license": "MIT",
-  "dependencies": {
-    "better-assert": "~1.0.0"
-  }
+  "license": "MIT"
 }
